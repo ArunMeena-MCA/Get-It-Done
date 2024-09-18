@@ -3,7 +3,7 @@
 
 ## A Simple To - Do Website!
 
-#### This web page is hosted [here!](https://arunmeena-mca.github.io/NEW-TO-Do_LIST/)
+#### This web page is hosted [here!](https://arunmeena-mca.github.io/Get-It-Done/)
 
 ### *Features*:
 
